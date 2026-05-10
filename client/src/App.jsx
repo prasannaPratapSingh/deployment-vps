@@ -2,7 +2,10 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Bless Me! 🧿</div>
+    <>
+    <div>BLESS ME!🧿</div>
+    Intergating GITHUB-ACTIONS!
+    </>
   )
 }
 
