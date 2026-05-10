@@ -4,7 +4,7 @@ const App = () => {
   return (
     <>
     <div>BLESS ME!🧿</div>
-    Intergating GITHUB-ACTIONS!
+    Intergating GITHUB-ACTIONS!🔌
     </>
   )
 }
