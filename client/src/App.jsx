@@ -2,11 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <>
-      <div>BLESS ME!🧿</div>
-      Intergating GITHUB-ACTIONS!🔌
-      CI/CD ✅
-    </>
+    <div>
+      Deployed on the VPS!
+    </div>
   )
 }
 
